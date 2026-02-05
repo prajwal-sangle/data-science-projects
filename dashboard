@@ -1,0 +1,21 @@
+# Netflix & Amazon Prime Content Analysis (Power BI)
+
+## Project Overview
+This project analyzes and compares content available on Netflix and Amazon Prime
+using Power BI dashboards.
+
+## Tools Used
+- Power BI
+- Excel / CSV datasets
+- Data Visualization
+
+## Key Insights
+- Comparison of content count across platforms
+- Genre-wise and rating-wise analysis
+- Country-wise content distribution
+- Trends in movies vs TV shows
+
+## Files in this folder
+- Netflix_Amazon_Prime_Dashboard.pbix
+- Dataset files (.csv)
+- Dashboard screenshots
